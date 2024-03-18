@@ -27,11 +27,6 @@
 📄 Know about my experiences https://github.com/abhishkh/abhishek-resume/blob/main/Abhishek_Rajesh_Mathukiya_Resume.pdf
 
 
-Connect with me @:
-
-
-Languages and Tools:
-angularjs arduino aws bootstrap c cassandra cplusplus css3 docker elasticsearch git hive html5 java javascript linux mongodb mysql oracle postgresql postman python pytorch react redis scikit_learn sqlite tensorflow
 <!--
 **abhishkh/abhishkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
