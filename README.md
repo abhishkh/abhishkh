@@ -24,7 +24,6 @@
 
 📫 How to reach me mathukiya.a@northeastern.edu
 
-📄 Know about my experiences https://github.com/abhishkh/abhishek-resume/blob/main/Abhishek_Rajesh_Mathukiya_Resume.pdf
 
 
 <!--
